@@ -22,3 +22,5 @@ Version 2.0
 #changed statue of liberty to be later, but is buffed when it happens
 #changed US socialist party to pro military and communist to jingoism
 #changed establish protectorate so one can conqueror more regions
+
+#map hotfixes

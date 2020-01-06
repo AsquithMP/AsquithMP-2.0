@@ -1,0 +1,24 @@
+AsquithMP2 changelog
+
+Version 2.0
+
+#changed gas attack chance to depend on 1900 army techs too (4% per tech
+#increased chance of gas attack through vanilla inventions (6% each)
+#increased base chance of gas defence
+#added giving grants, losing only 2.5 prestige (half the usual) per grant request
+#changed infamy reduction to -0.275 a month during peace and -0.05 whilst at war
+#New cbs, including take capital, minor conquest and negotiated transfer (acquire substate region and acquire treaty port soon)
+#removed sokoto
+#added nerfed ukrainian breadbasket
+#buffed cruissiers early game
+#buffed guards mid game
+#buffed tanks late game
+#slightly nerfed engineers
+#nerfed healthcare, whilst slightly boosting immigrant attraction
+#buffed party loyalty national focus
+#added alps impassable
+#province tweaks
+#intent to buff ottomans
+#changed statue of liberty to be later, but is buffed when it happens
+#changed US socialist party to pro military and communist to jingoism
+#changed establish protectorate so one can conqueror more regions
